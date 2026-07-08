@@ -1,4 +1,12 @@
 
+## 빠른 사용법 (ChatGPT / Gemini / Cursor 등 AI 도구 사용자)
+
+아래 문구를 그대로 복사해서 사용 중인 AI 챗창에 붙여넣으세요:
+
+> 다음 지침을 읽고 그대로 따라줘: https://raw.githubusercontent.com/actafoo/classlog-skill/main/SKILL.md
+
+(Claude Code / Cowork 사용자는 `.skill` 파일을 설치하면 자동으로 적용됩니다.)
+
 # ClassLog 학습앱 스킬
 
 이 문서는 AI 코딩 도구(Claude, ChatGPT, Gemini, Cursor 등)가 읽고 따르는 작업 지침입니다.
